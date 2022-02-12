@@ -4,8 +4,8 @@
 
 ## I'm a Computer Science Student
 
-- 👨‍💻 I’m currently working on creating discord bots using nextcord.py which is a fork from discord.py
-- 📚 I’m a first year student and just finished my first class which was Intro To Scripting. It was a python class.
+- 👨‍💻 I’m currently working on creating discord bots using disnake.py which is a fork from discord.py
+- 📚 I’m a first year computer science student
 - 💪🏼 Future Goals: Continue to develop my coding skills.
 - ⚡ Fun fact: I love sports and gaming.
 

@@ -2,13 +2,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science Student
-
-- 👨‍💻 I’m currently working on creating discord bots using disnake.py which is a fork from discord.py
-- 📚 I’m a first year computer science student
-- 💪🏼 Future Goals: Continue to develop my coding skills.
-- ⚡ Fun fact: I love sports and gaming.
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />

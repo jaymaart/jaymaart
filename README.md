@@ -1,11 +1,5 @@
 # Hi there, I'm Jason -
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### Spotify Playing 🎧
 [![spotify](https://api.statusbadges.me/badge/spotify/1135770141204959353)](https://api.statusbadges.me/openspotify/1135770141204959353)
 ### Discord Status

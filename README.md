@@ -7,7 +7,8 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
+[![spotify](https://api.statusbadges.me/badge/spotify/1135770141204959353)](https://api.statusbadges.me/openspotify/1135770141204959353)
+### Discord Status
 ![status](https://api.statusbadges.me/badge/status/1135770141204959353?simple=true)
 
 ---

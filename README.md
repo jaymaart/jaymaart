@@ -15,8 +15,3 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br/>
-
----
-
-![Jaymart's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaymart95&show_icons=true&theme=radical)
-

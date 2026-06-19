@@ -48,5 +48,5 @@
 ### 🐍 Watch my contributions get eaten
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/jaymaart/jaymaart/output/snake.svg" alt="snake animation" />
 </p>

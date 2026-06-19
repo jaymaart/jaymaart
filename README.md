@@ -43,10 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=jaymaart&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaymaart&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
-
 ---
 
 ### 🐍 Watch my contributions get eaten

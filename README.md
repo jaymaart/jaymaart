@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I build web apps & dev tools — my flagship project is **Area Advertising**
+- 🔭 I build web apps & dev tools — my current project is **[Area Advertising](https://areaadvertising.com)**
 - 🌱 Always learning, always shipping
 - ⚡ Fun fact: there's a 99% chance I'm listening to music while you read this 👇
 
